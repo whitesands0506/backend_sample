@@ -1,0 +1,57 @@
+[
+    {
+        "http_method": "POST",
+        "route": "/api_sample",
+        "function_name": "Function_1",
+        "validation_method": "NO_VALIDATION",
+        "respond_result": true,
+        "fetch_custom_user_data": false,
+        "create_user_on_auth": false,
+        "disabled": false,
+        "return_type": "JSON"
+    },
+    {
+        "http_method": "POST",
+        "route": "/api_akari_01",
+        "function_name": "akari/api_write",
+        "validation_method": "NO_VALIDATION",
+        "respond_result": false,
+        "fetch_custom_user_data": false,
+        "create_user_on_auth": false,
+        "disabled": false,
+        "return_type": "JSON"
+    },
+    {
+        "http_method": "POST",
+        "route": "/api_eita_01",
+        "function_name": "eitra/api_write",
+        "validation_method": "NO_VALIDATION",
+        "respond_result": false,
+        "fetch_custom_user_data": false,
+        "create_user_on_auth": false,
+        "disabled": false,
+        "return_type": "JSON"
+    },
+    {
+        "http_method": "POST",
+        "route": "/api_ryoshin_01",
+        "function_name": "ryoshin/api_write",
+        "validation_method": "NO_VALIDATION",
+        "respond_result": false,
+        "fetch_custom_user_data": false,
+        "create_user_on_auth": false,
+        "disabled": false,
+        "return_type": "JSON"
+    },
+    {
+        "http_method": "POST",
+        "route": "/api/read",
+        "function_name": "api/read",
+        "validation_method": "NO_VALIDATION",
+        "respond_result": false,
+        "fetch_custom_user_data": false,
+        "create_user_on_auth": false,
+        "disabled": false,
+        "return_type": "JSON"
+    }
+]

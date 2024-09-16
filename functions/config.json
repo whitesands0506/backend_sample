@@ -1,0 +1,47 @@
+[
+    {
+        "name": "api/write",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "Function_1",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "ryoshin/api_write",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "eitra/api_write",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "akari/api_write",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "eita/api_read",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "ryoshin/api_read",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "akari/api_read",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "api/read",
+        "private": false,
+        "run_as_system": true
+    }
+]
